@@ -1,6 +1,5 @@
 /*
-Diego Acuna - S00369466
-CSCI 3000, HW 4
+Diego Acuna
 03/07/20
 */
 
